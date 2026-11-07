@@ -1,0 +1,13 @@
+{
+  "work_orders": 184,
+  "evidence_records": 187,
+  "raw_payment_rows": 188,
+  "raw_signed_amount_sum": 565440,
+  "failed_attempts_excluded": 3200,
+  "duplicate_export_amount_excluded": 3100,
+  "unique_settled_events": 186,
+  "gross_settled_outflows": 562440,
+  "settled_returns": 3300,
+  "net_settled_cash": 559140,
+  "contract_fees": 572640
+}

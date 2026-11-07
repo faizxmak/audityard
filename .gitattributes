@@ -1,0 +1,6 @@
+# Keep supplied inputs and recorded outputs byte-for-byte across platforms.
+agent-pack/** -text
+example-run/** -text
+evaluation/*.json -text
+evaluation/rubric.md -text
+*.csv whitespace=cr-at-eol

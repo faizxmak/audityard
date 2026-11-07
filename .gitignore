@@ -1,0 +1,12 @@
+.DS_Store
+__pycache__/
+*.pyc
+.env
+.env.*
+!.env.example
+.venv/
+cases/
+recordings/
+# Keep the original evaluator key and guide out of the public submission.
+evaluation/answer_key.json
+evaluation/READ_ME.md
