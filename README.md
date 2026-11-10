@@ -1,6 +1,6 @@
 # Audityard
 
-**A supplier-payment audit team coordinated through Switch.**
+**An audit team coordinated through Switch.**
 
 An audit lead needs to connect three things — what was ordered, what the evidence supports, and what was paid. Audityard divides that work between four Claude Code agents in a shared Mattermost room. The manager assigns tasks through Switch, a separate reviewer checks the sources and calculations, and the human gets a report with a decision for every work order.
 
